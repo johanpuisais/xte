@@ -2,9 +2,7 @@
    header("Cache-Control: no-cache, must-revalidate");
    header("Pragma: no-cache");
 
-/* querystring
-$MonParametre=$_GET["name"];
-*/
+/* querystring */
 /* $site=$_GET["site"];*/
 
    @$xslDoc = new DOMDocument();
